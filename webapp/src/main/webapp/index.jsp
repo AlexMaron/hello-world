@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2>some other text h2</>
 <p>and simple paragraph</p>
+<h1>FOOTER<h1/>
